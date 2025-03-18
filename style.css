@@ -1,0 +1,630 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+.nav-ber{
+    display: flex;
+    
+    justify-content: space-between;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;}
+
+.download{
+    border:black solid;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+.banner{
+    background-image: url(../assets/Hero-bg.png);
+    
+    
+}
+.banner .photo{
+    text-align: center;
+}
+.banner-description .btn{
+    padding: 10px 10px;color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+    border-radius: 8px;
+
+background: rgb(13, 19, 33);}
+.banner-description{
+    text-align: center;
+}
+.banner-description .h1{
+    Font: Azeret Mono
+Font weight: 800
+Font size: 48pxpx
+Row height: 68px
+Letter spacing: 0%
+Align: Align center
+}
+.banner-description .p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}
+/* main related style */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+#learning{
+    margin: 80px 97px;
+}
+#learning .h1-write{
+    text-align: center;
+}
+#learning .h1-write .title{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center; 
+}
+#learning .h1-write .subtitile{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}
+#learning .box-1{
+    display: flex;
+    
+    text-align: center;
+    
+    gap: 70px;
+    margin: 50px 50px;
+    
+    
+}
+#learning .box-1 .description{
+    width: 477px;
+height: 219px;
+}
+.box-1 .description .title{
+    color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+.box-1 .description .subtitile{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 12px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+.box-1 .btn{
+    padding: 10px 20px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 15px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
+#learning .box-2{
+    display: flex;
+    
+    
+    text-align: center;
+    
+   margin:48px 48px;
+}
+#learning .box-2 .description{
+    width: 477px;
+height: 219px;
+
+}
+.box-2 .btn{
+    padding: 10px 20px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 15px;
+font-weight: 500;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
+#learning .box-3{
+    display: flex;
+    
+    wi
+    text-align: center;
+
+    margin:  48px 48px;
+
+    
+}
+#learning .box-3 .description{
+    width: 477px;
+height: 219px;
+
+}
+.box-3 .btn{
+    padding: 10px 20px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 15px;
+font-weight: 500;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
+.box-2 .description .title{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.box-2 .description .subtitile{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 12px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+.box-3 .description .title{color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+
+}
+.box-3 .description .subtitile{color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+
+}
+.vedio-description{
+    text-align: center;
+}
+.vedio-description .title{color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+.vedio-description .subtitile{color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+.vedio{
+    text-align: center;}
+    #card-box{
+width: 1140px;
+height: 460px;
+display: flex;
+flex-direction: column;
+gap: 48;
+margin: 100px;
+
+    }
+    #card-box .target{
+        text-align: center;
+    }
+    #card-box .box-1-2-3{
+        display: flex;
+    margin: 100px;}
+        #card-box .box-1-2-3 .box-1{
+
+width: 364px;
+height: 299px
+border-radius: 16px;
+background: rgba(255, 76, 30, 0.05);
+padding: 40px;
+margin: 24px;
+        }
+        #card-box .box-1-2-3 .box-2{
+
+            width: 364px;
+            height: 299px
+            border-radius: 16px;
+            background: rgba(0, 76, 232, 0.05);
+            padding: 40px;
+            margin: 24px;
+        }
+        #card-box .box-1-2-3 .box-3{
+
+width: 364px;
+            height: 299px
+            border-radius: 16px;
+            background: rgba(255, 223, 0, 0.05);
+            padding: 40px;
+            margin: 24px;
+        }
+        #special-tag .description{
+            text-align: center;
+        }
+        #special-tag .special-tag-1-2-3 .react{
+            display: flex;
+            box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+text-align: center;
+width: 1200px;
+height: 150px;
+margin: 100px 100px 20px;
+
+        }
+        #special-tag .special-tag-1-2-3 .mongo{
+            display: flex;
+            
+            box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+text-align: center;
+width: 1200px;
+height: 150px;
+margin: 20px 100px;
+
+        }
+        #special-tag .special-tag-1-2-3 .node{
+            display: flex;
+            
+            box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+text-align: center;
+width: 1200px;
+height: 150px;
+margin: 20px 100px;
+
+        }
+        .box-1-2-3 .box-1 .subtitile{
+            color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 10px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+        }
+        .box-1-2-3 .box-1 .title{
+            color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+        }
+        .box-1-2-3 .box-1 .btn{
+            color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 10px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+        }
+        .box-1-2-3 .box-2 .subtitile{
+            color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 10px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+        }
+        .box-1-2-3 .box-2 .title{
+            color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;}
+.box-1-2-3 .box-2 .btn{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 10px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+}
+.box-1-2-3 .box-3 .btn{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 10px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+}
+.box-1-2-3 .box-3 .subtitile{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 10px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+.box-1-2-3 .box-3 .title{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;}
+#card-box .target .title{color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+#card-box .target .subtitile{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+
+#special-tag .special-tag-1-2-3 .react.title{color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    
+}
+#special-tag .special-tag-1-2-3 .subtitile{color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+
+}
+#special-tag .special-tag-1-2-3 .react .btn{color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+
+}
+#special-tag .special-tag-1-2-3 .mongo.title{color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    
+}
+#special-tag .special-tag-1-2-3 .mongo .subtitile{color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+
+}
+#special-tag .special-tag-1-2-3 .mongo .btn{color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+
+}#special-tag .special-tag-1-2-3 .node .title{color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    
+}
+#special-tag .special-tag-1-2-3 .node .subtitile{color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+
+}
+#special-tag .special-tag-1-2-3 .node .btn{color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+
+}
+#special-tag .description .title{color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+#special-tag .description .subtitile{color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+
+        #handshake{
+            text-align: center;
+            background-image:url(../assets/handshake.jpg);
+             width: 1200;
+height: 64px;
+
+            
+        }
+        #handshake .btn-tag .btn{
+            padding: 10px 5px;
+            box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+
+background: rgb(255, 255, 255);
+color: rgba(13, 19, 33, 0.4);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: center;
+        }
+        #handshake .btn-tag .btn-1{
+            padding: 10px 5px;
+            border-radius: 8px;
+
+background: rgb(255, 255, 255);
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+
+        }
+        #handshake .description{
+            text-align: center;
+            padding: 50px;
+        }
+        #handshake .description .title{color: rgb(255, 255, 255);
+            font-family: Azeret Mono;
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 36px;
+            letter-spacing: 0%;
+            text-align: center;
+
+        }
+        #handshake .description .subtitile{
+            color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 10px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+
+        }
+        #handshake .btn-tag .btn{color: rgba(13, 19, 33, 0.4);
+            font-family: Azeret Mono;
+            font-size: 12px;
+            font-weight: 400;
+            line-height: 19px;
+            letter-spacing: 0%;
+            text-align: center;
+
+        }
+        #handshake .btn-tag .btn-1{
+            color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 15px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+
+        }
+        #github .icon{
+            display: flex;
+            justify-content: space-between;
+            border-radius: 16px;
+
+            background: rgba(13, 19, 33, 0.03);
+            margin: 32px 50px;
+        }
+        #github .icon .title{
+            color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 15px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+        }
+        
+            
+
+
+    
+    
